@@ -1,3 +1,4 @@
+
 @import url("styles/header.css");
 
 :root {
@@ -6,5 +7,5 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo)
+    background-color: var(--cor-de-fundo);
 }
