@@ -18,6 +18,8 @@
 .container {
     display: flex;
     align-items: center;
+    width: 16px;
+    height: 16px;
 }
 
 .container__imagem {
