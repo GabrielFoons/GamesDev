@@ -24,4 +24,6 @@
 
 .container__imagem {
     padding: 1em;
+    width: 16px;
+    height: 16px;
 }
