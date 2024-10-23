@@ -7,13 +7,13 @@
     background-position: center;
 }
 
-.cabeçalho {
+.cabecalho {
     background-color: var(--cinza-claro);
     display: flex;
     justify-content: space-between;
     align-items: center;
     position: relative;
-}
+  }
 
 .container {
     display: flex;
